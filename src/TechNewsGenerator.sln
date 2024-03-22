@@ -6,6 +6,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Items", "Items", "{1EB6D65A
 	ProjectSection(SolutionItems) = preProject
 		..\README.md = ..\README.md
 		..\.gitignore = ..\.gitignore
+		..\.github\workflows\dotnet.yml = ..\.github\workflows\dotnet.yml
 	EndProjectSection
 EndProject
 Global
