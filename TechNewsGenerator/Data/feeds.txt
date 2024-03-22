@@ -1,0 +1,7 @@
+https://devblogs.microsoft.com/landingpage/
+https://github.blog/feed/
+https://vercel.com/atom
+https://code.visualstudio.com/feed.xml
+https://devblogs.microsoft.com/visualstudio/comments/feed/
+https://openai.com/blog/rss.xml
+https://www.artificialintelligence-news.com/comments/feed/
