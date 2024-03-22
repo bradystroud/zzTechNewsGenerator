@@ -1,8 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-// using SimpleFeedReader;
-
-using CodeHollow.FeedReader;
+﻿using CodeHollow.FeedReader;
 using Microsoft.Extensions.Configuration;
 using TechNewsGenerator.Helpers;
 using TechNewsGenerator.Models;
