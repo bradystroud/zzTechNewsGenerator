@@ -22,7 +22,7 @@ There are a few steps to manually preparing the news:
 |---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1. Get the articles             | Yes, using RSS feeds seems to be working ok.                                                                                                       |
 | 2. Pick the most important ones | I'm using OpenAI API to do this but I feel this will always need manual help (e.g. Generate initial list with AI then human with add/remove links) |
-| 3. Add notes for the presenter  | Not yet tested, but should be doable with AI                                                                                                       |
+| 3. Add notes for the presenter  | Not yet tested, I dont think it will do a good job of picking the things Adam likes to talk about. |
 
 Overall, I am not convinced that this can be automated well.
 
